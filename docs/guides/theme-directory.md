@@ -22,5 +22,6 @@
 | [Dark theme](https://github.com/bdrose/Uploads/blob/master/theme.dark.asar) | ![Screenshot](https://github.com/bdrose/Uploads/blob/master/dark.png) |
 | [Walnut Theme](https://github.com/3kakakhel/sabaki-walnut-theme/releases/download/1.0.0/walnut.sabakitheme.asar) | ![](https://github.com/3kakakhel/sabaki-walnut-theme/blob/master/screenshot.jpg) |
 | [Wgo.js Theme](https://github.com/3kakakhel/sabaki-wgojs-theme/releases/download/1.1.0/wgojs.1.1.0.sabakitheme.asar) | ![](https://github.com/3kakakhel/sabaki-wgojs-theme/blob/master/screenshot.jpg) |
+| [Hyuga Kaya Set 1 Theme](https://github.com/urehkoh/hyuga-kaya-set-1/releases/download/v1.0.0/hyuga-kaya-set-1-1.0.0.asar) | ![](https://github.com/urehkoh/hyuga-kaya-set-1/blob/master/screenshot2.png) |
 
 You can also customize Sabaki using a [userstyle](userstyle-tutorial.md). Learn [how to package a userstyle into a theme](create-themes.md) and feel free to send in a pull request to add yours to the list!
